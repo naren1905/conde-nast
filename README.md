@@ -1,14 +1,14 @@
 # conde-nast
 
-Hello World App 🚀
+Hello World App for conde nast
 This is a Node.js Express application that provides a simple REST API with Prometheus monitoring. It supports Docker Compose for containerization and deployment, along with GitHub Actions for CI/CD automation.
 
 
 Features
-✅ Simple REST API with Express.js
-✅ Prometheus Monitoring for real-time metrics
-✅ Docker & Minikube for Containerization
-✅ GitHub Actions CI/CD for automated testing & deployment
+-> Simple REST API with Express.js
+-> Prometheus Monitoring for real-time metrics
+-> Docker & Minikube for Containerization
+-> GitHub Actions CI/CD for automated testing & deployment
 
 <> Running the App on Windows
 ---> npm install
