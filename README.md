@@ -7,7 +7,7 @@ This is a Node.js Express application that provides a simple REST API with Prome
 Features
 -> Simple REST API with Express.js
 -> Prometheus Monitoring for real-time metrics
--> Docker & Minikube for Containerization
+-> Docker for Containerization
 -> GitHub Actions CI/CD for automated testing & deployment
 
 <> Running the App on Windows
